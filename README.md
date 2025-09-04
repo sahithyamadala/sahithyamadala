@@ -1,4 +1,4 @@
-<h1 align="center">Hi!I'm Sri Sahithyanjali</h1>
+<h1 align="center">Hi! I'm Sri Sahithyanjali</h1>
 <h3 align="center">A passionate Web Developer with a strong foundation in Java and Data Structures & Algorithms. Currently nurturing a rising passion for Artificial Intelligence, exploring its potential to solve real-world problems through intelligent systems and predictive solutions.</h3>
 
 - 🌱 I’m currently learning **SpringBoot,React**
